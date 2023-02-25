@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9vGDUKdxEypW+Z7+9MPHiiAn/IG5Y41/kn1lXhF1Ynw+lHBJEfAZGEyJsPVZvABAJPVhvJhBMW7ZSWLBwaE3MA==",
+  "dgSpecHash": "xl+UdmE+I/bJeOMv0U6r101VJV1rFXmYsEcIClXVncPnX9J0cBz1ZYmY4YP+Zd+5uR7dzwyjFP/QCZwcR4GGdQ==",
   "success": true,
   "projectFilePath": "/Users/joevu/projects/microservices/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,11 @@
     "/Users/joevu/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/joevu/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/joevu/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
+    "/Users/joevu/.nuget/packages/google.protobuf/3.22.0/google.protobuf.3.22.0.nupkg.sha512",
+    "/Users/joevu/.nuget/packages/grpc.core.api/2.51.0/grpc.core.api.2.51.0.nupkg.sha512",
+    "/Users/joevu/.nuget/packages/grpc.net.client/2.51.0/grpc.net.client.2.51.0.nupkg.sha512",
+    "/Users/joevu/.nuget/packages/grpc.net.common/2.51.0/grpc.net.common.2.51.0.nupkg.sha512",
+    "/Users/joevu/.nuget/packages/grpc.tools/2.51.0/grpc.tools.2.51.0.nupkg.sha512",
     "/Users/joevu/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/joevu/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/joevu/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
